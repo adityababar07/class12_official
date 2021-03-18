@@ -1,0 +1,4 @@
+In this program, you'll learn to find the ASCII value of a character and display it.
+ ... Python Input, Output and Import · 
+Python Programming Built-in Functions ... 
+value of the given character c = 'p' print("The ASCII value of '" + c + "' is", ord(c)).
