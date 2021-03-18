@@ -11,7 +11,5 @@ check(gender in ( 'm','f'))
 
 insert into test.stud_info values(1001, 'Aditya', 'Sangli', 17, 'm');
 select * from test.stud_info;
-
-
-
+Describe test.stud_info;
 
